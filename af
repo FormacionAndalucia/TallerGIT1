@@ -27,5 +27,5 @@ core.bare=false
 core.logallrefupdates=true
 core.symlinks=false
 core.ignorecase=true
-remote.origin.url=https://github.com/gagus5/Taller-Practico.git
+remote.origin.url=https://github.com/magugolenc/Programacion_PC_Insti_NTT.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
