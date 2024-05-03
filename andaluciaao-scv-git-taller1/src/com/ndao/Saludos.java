@@ -14,6 +14,7 @@ public class Saludos {
 
 		System.out.println("Hola Alejandro");
 		System.out.println("Hola Joaquín");
+		System.out.println("Hola Alejandro");
 		// TODO continúa el código con tu nombre de pila.
 		System.out.println("Hola Joaquín");
 	}
