@@ -12,10 +12,12 @@ public class Saludos {
 	 */
 	public static void main(String[] args) {
 
+		System.out.println("Hola Jorge");
 		System.out.println("Hola Alejandro");
 		System.out.println("Hola Joaquín");
 		// TODO continúa el código con tu nombre de pila.
 		System.out.println("Hola Joaquín");
+		
 	}
 
 }
