@@ -15,7 +15,9 @@ public class Saludos {
 		System.out.println("Hola Alejandro");
 		System.out.println("Hola Joaquín");
 		// TODO continúa el código con tu nombre de pila.
-		System.out.println("Hola Joaquín");
+		System.out.println("Soy Alejandro");
+		System.out.println("Tengo 20 años y hago las practicas en NTTDATA");
+
 	}
 
 }
